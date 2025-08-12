@@ -157,6 +157,6 @@ MIT
 
 ## Authors
 
-### **Francis Aboud**
+[Francis Aboud](https://github.com/FrancisA2000)
+[Bshara Habib](https://github.com/Bshara7abib)
 
-### **Bshara Habib**
