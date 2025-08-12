@@ -154,3 +154,8 @@ PRs welcome. Please run both scripts locally and commit only the YAML and any ca
 ## License
 
 MIT
+
+## Authors
+
+**Francis Aboud**
+**Bshara Habib**
