@@ -157,5 +157,6 @@ MIT
 
 ## Authors
 
-**Francis Aboud**
-**Bshara Habib**
+### **Francis Aboud**
+
+### **Bshara Habib**
