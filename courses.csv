@@ -1,0 +1,39 @@
+courseId,name,credits,examDateA,examDateB,lecturer
+11002,Algebra I,5.0,2026-01-13,2026-02-13,Dr. Rami Aharoni
+11004,Calculus I,5.0,2026-01-13,2026-02-13,Dr. Vladislav Shteeman
+11063,Basic English II,2.0,2026-01-13,2026-02-13,Dr. Fadil Tareef
+31230,Introduction to Computers,2.5,2026-01-13,2026-02-13,Dr. Samuel Kosolapov
+31511,Mathematics & Digital Systems,4.0,2026-01-13,2026-02-13,Ofer Tzur
+41090,Chemistry I,2.5,2026-01-13,2026-02-13,Assoc. Prof. Amir Adler
+251961,Engineering Fundamentals 3,1.0,2026-01-13,2026-02-13,Dr. Pini Zorea
+11006,Calculus II,5.0,2026-01-13,2026-02-13,Yael Erez
+11064,Advanced English I,2.0,2026-01-13,2026-02-13,Dr. Einat Ravid
+11121,ODE,2.5,2026-01-13,2026-02-13,Dr. Ira Wolfson
+11231,Physics I,4.5,2026-01-13,2026-02-13,Dr. Rafael Shalala
+31316,Intro to EE,5.0,2026-01-13,2026-02-13,Avraham Cohen
+31616,Intro to CS & C,4.0,2026-01-13,2026-02-13,Olga Khatrinov
+11057,Advanced English II,2.0,2026-01-13,2026-02-13,Oren Zaltz
+11122,PDE & Fourier,4.0,2026-01-13,2026-02-13,Eilon Littwitz
+11123,Complex Functions,4.0,2026-01-13,2026-02-13,Albert Profis
+11232,Physics II,4.5,2026-01-13,2026-02-13,Anatoly Likhult
+31350,Semiconductors,3.5,2026-01-13,2026-02-13,Dr. Beto Catz
+51742,Prob. & Stats,3.0,2026-01-13,2026-02-13,Liviu Gal
+31401,Analog Electronics,5.0,2026-01-13,2026-02-13,Gnadi Tsoglin
+31402,EE Lab I,2.0,2026-01-13,2026-02-13,Weshah Zouabi
+31421,Signals & Systems,5.0,2026-01-13,2026-02-13,Yaniv Avi
+31705,EM Fields & Waves,4.0,2026-01-13,2026-02-13,Kitzhak Kerren
+31403,EE Lab II,2.0,2026-01-13,2026-02-13,Fady Shakour
+31442,Digital Signal Processing,3.0,2026-01-13,2026-02-13,Ramik Khir
+31521,Digital Electronics,4.0,2026-01-13,2026-02-13,Shai Israeli
+31711,Intro to Communications,3.5,2026-01-13,2026-02-13,Shimon Pitelson
+31910,Intro to Control,3.5,2026-01-13,2026-02-13,Dr. Elena Trotskovsky
+31999,Energy Conversion I,3.0,2026-01-13,2026-02-13,Ran Feld
+11233,Physics III,4.0,2026-01-13,2026-02-13,Inbal Ronen
+31017,Competitive Project,3.0,2026-01-13,2026-02-13,Yarden Sarabi
+31451,Random Signals & Noise,4.0,2026-01-13,2026-02-13,Eyal Sade
+31841,Applied Electronics,2.5,2026-01-13,2026-02-13,Hala Salameh
+31100,Engineering Design A,3.0,2026-01-13,2026-02-13,David Margolis
+31101,Eng. Design A Industry/Research,3.0,2026-01-13,2026-02-13,Yana Zamustiano
+31102,Engineering Design B,3.0,2026-01-13,2026-02-13,Alejandro Gulikhov
+31103,Engineering Design B Research,5.0,2026-01-13,2026-02-13,Tom Reiner
+31104,Engineering Design B Industry,7.0,2026-01-13,2026-02-13,Itzhak Shlomo
